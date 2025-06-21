@@ -1,0 +1,25 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "CSI",
+  "main": "l",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "j"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "himanshu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express.js": "^1.0.0",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
+}
